@@ -637,7 +637,7 @@ Ibrahima Diallo,€4.00m
 Ismael Diallo,€1.00m
 Mamady Diarra,€250k
 Mouhamadou Diarra,€20.00m
-Moussa Diarra,€1.80m
+Moussa Diarra,Error: 502 Server Error: Bad Gateway for url: https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Moussa+Diarra
 Stéphane Diarra,-
 Youba Diarra,€500k
 Rúben Dias,€65.00m
@@ -1075,7 +1075,7 @@ Cédric Hountondji,€1.20m
 Ilyes Housni,€1.50m
 Luká Hrádeck?,Not Found
 Petko Hristov,€4.00m
-Ajdin Hrustic,€400k
+Ajdin Hrustic,Error: 500 Server Error: Internal Server Error for url: https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=Ajdin+Hrustic
 Timo Hübers,€3.00m
 Callum Hudson-Odoi,€25.00m
 Will Hughes,€7.00m
