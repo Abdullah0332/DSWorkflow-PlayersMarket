@@ -17,7 +17,7 @@ This Jupyter Notebook project explores the prediction of football players' marke
 
 ---
 
-## ✅ Overview
+## Overview
 
 The notebook performs:
 
@@ -32,14 +32,14 @@ The notebook performs:
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 - `Player_Stats.csv`: Player performance data
 - `player_market_values.csv`: Scraped values from [Transfermarkt](https://www.transfermarkt.com)
 
 ---
 
-## 🔁 Notebook Workflow
+## Notebook Workflow
 
 1. **Data Preprocessing**
 
@@ -71,7 +71,7 @@ The notebook performs:
 
 ---
 
-## 📉 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The notebook includes rich visualizations:
 
@@ -83,7 +83,7 @@ The notebook includes rich visualizations:
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 To run this notebook, install the following libraries:
 
