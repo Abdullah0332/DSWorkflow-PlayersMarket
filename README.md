@@ -83,18 +83,6 @@ The notebook includes rich visualizations:
 
 ---
 
-## 🤖 Modeling Approaches
-
-| Model                  | R² (Test) | MAE | MSE |
-| ---------------------- | --------- | --- | --- |
-| Baseline               |           |     |     |
-| XGBoost (Tuned)        |           |     |     |
-| Neural Network (Tuned) |           |     |     |
-
-> _Model results are printed in the notebook after each evaluation step._
-
----
-
 ## 🛠️ Installation
 
 To run this notebook, install the following libraries:
